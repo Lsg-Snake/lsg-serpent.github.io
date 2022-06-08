@@ -1,0 +1,61 @@
+h1
+{
+		text-align: center;
+}
+h1
+{
+		font-size: 2.8em;
+}
+h1
+{		border-bottom: 2px red solid;
+		text-shadow: 1px 1px 0px red;
+}
+h2
+{		margin-left: 25px;
+}
+
+h2
+{
+		color:  red;
+}
+h3
+{		color: navy;
+}
+h3
+{		font-size:  1.5em;
+}
+h3
+{		
+		font-style: italic;
+}
+
+
+mark
+{		
+		text-decoration: underline;
+}
+.imageflottante
+{
+		float: left;
+}
+body
+{		
+		background: fixed url("fond1.jpg") ;
+}
+a:hover
+{
+		color: red;
+}
+p, li
+{
+		color: blue;
+}
+p
+{		margin-left: 5px;
+}
+p
+{		padding:  5px;
+}
+p
+{		font-size: 1.5em;
+}
